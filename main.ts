@@ -35,6 +35,7 @@ let main = () =>
     app.listen(puerto, ()=>{
         console.log(`Server running in port ${puerto}`);
     })
+    dsd
 }
 
 main()
